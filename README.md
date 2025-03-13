@@ -5,7 +5,7 @@ A machine learning model for predicting rainfall based on weather features
 - **Random Forest Classifier**:  Implemented a Random Forest Classifier, optimizing hyperparameters using GridSearchCV to improve accuracy.
 - **Streamlit Web App**: A simple and interactive web application where users can input weather data and get predictions.
 - **Model Saving**: The trained model is saved using **Pickle**, and the app loads it for making predictions.
--  
+  
 ## Installation
 1. **Clone the repository**:
    ```bash
